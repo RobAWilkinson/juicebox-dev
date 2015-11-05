@@ -6723,10 +6723,10 @@ font-family: 'Fjalla One', sans-serif;
 
 .section-iphone-features .iphone-carousel {
   background: url(../img/iphone.png) no-repeat center;
-  width: 390px;
-  height: 858px;
+  width: 440px;
+  height: 1000px;
   margin: 0 auto;
-  padding: 140px 35px 84px; }
+  padding: 180px 35px 84px; }
 
 @media (min-width: 992px) and (max-width: 1199px) {
   .section-iphone-features .iphone-carousel {
